@@ -1066,7 +1066,7 @@ public class JPanelAdmin extends javax.swing.JPanel {
 
         // Create chart
         JFreeChart chart = ChartFactory.createHistogram(
-                "Sample Histogram",
+                "User Sales",
                 "Value",
                 "Frequency",
                 dataset
